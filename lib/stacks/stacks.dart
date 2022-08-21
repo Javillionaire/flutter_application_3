@@ -13,7 +13,9 @@ class _StacksPage extends State<StacksPage> {
     return Scaffold(
       appBar: AppBar(),
       body: Stack(
+        
         children: const [
+          
           Center(
               child: Text(
             'Home',
